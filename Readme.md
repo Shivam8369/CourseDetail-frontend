@@ -7,7 +7,7 @@ feature
 
 
 # How to run
-- git clone <repo-name>
+- git clone https://github.com/Shivam8369/CourseDetail-frontend.git
 - npm Install
 - npm run dev
 
